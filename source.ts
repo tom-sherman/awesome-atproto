@@ -4,6 +4,10 @@ import { Category } from './lib/types'
 export const source: Category[] = [
   links('Apps and Services', [
     link(
+      'Smoke Signal, an event and RSVP management system',
+      'https://smokesignal.events',
+    ),
+    link(
       'Frontpage, a federated link aggregator',
       'https://frontpage.fyi',
       'https://github.com/likeandscribe/unravel'
